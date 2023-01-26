@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/luckystar/static/css/main.d48db494.css",
+    "main.js": "/luckystar/static/js/main.af85a074.js",
+    "static/media/img-8.jpg": "/luckystar/static/media/img-8.08fc1cd2494abc748881.jpg",
+    "static/media/contactus.jpg": "/luckystar/static/media/contactus.9c4cbd36150937acdaa8.jpg",
+    "static/media/support.jpg": "/luckystar/static/media/support.4d6dc2e70e5758a8563a.jpg",
+    "index.html": "/luckystar/index.html",
+    "main.d48db494.css.map": "/luckystar/static/css/main.d48db494.css.map",
+    "main.af85a074.js.map": "/luckystar/static/js/main.af85a074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48db494.css",
+    "static/js/main.af85a074.js"
+  ]
+}
