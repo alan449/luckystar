@@ -18,7 +18,7 @@ export default function Services() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='./luckystar/images/img-9.jpg'
+              src='images/img-9.jpg'
               text='Ongoing IT support'
               label='IT Support'
               path='/services'
