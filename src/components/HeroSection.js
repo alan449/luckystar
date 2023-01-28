@@ -6,9 +6,9 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src="videos/video-1.mp4" autoPlay loop muted />
-      <h1>CUSTOM CLEARANCE</h1>
-      <p>export from / import to China</p>
-      <p>Get A <span>Free</span> Quote!</p>
+      <h1>CUSTOMS CLEARANCE</h1>
+      <p>Export from or import to China</p>
+      <p>Get a <span>FREE</span> quote!</p>
     </div>
   );
 }

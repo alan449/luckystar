@@ -25,7 +25,7 @@ export default function Services() {
             />
             <CardItem
               src='images/img-8.jpg'
-              text='Build a long term relationship with client'
+              text='We build long term relationships with our clients'
               label='Customer Services'
               path='/services'
             />
