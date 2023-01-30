@@ -34,6 +34,25 @@
   font-size: 100px;
 }
 
+.contact {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  justify-content: flex-start;
+}
+
+.con-detail {
+  display: flex;
+  flex-direction: column;
+  margin: 60px 0 0 60px;
+  align-items: center
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
 .sign-up {
   background-image: url('../public/images/img-8.jpg');
   background-position: center;
@@ -47,7 +66,7 @@
   width: 65%;
   display: flex;
   flex-direction: column;
-  padding: 60px;
+  padding: 30px 60px;
   align-items: flex-start;
 }
 
@@ -100,5 +119,35 @@
   font-size: 26px;
   line-height: 35px;
   padding: 20px 0;
+}
+
+/* ipad 768 x 1024 */
+
+@media (max-width: 799px) {
+  #form-details {
+    padding: 40px;
+  }
+  
+  #form-details form {
+    width: 90%;
+  }
+
+  .contact {
+    margin-left: 40px;
+  }
+}
+
+@media (max-width: 477px) {
+  #form-details {
+    padding: 0px;
+  }
+  
+  #form-details form {
+    width: 100%;
+  }
+
+  .contact {
+    margin-left: 0px;
+  }
 }
 

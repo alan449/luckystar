@@ -9,9 +9,19 @@ export default function Products() {
   return (
     <>
     <h1 className='products'>CONTACT US</h1>
+    <div className='contact'>
+          <div className='con-detail'>
+            <img src="./images/alan-wechat.JPG" />
+            <p>WeChat</p>
+          </div>
+          <div className='con-detail'>
+            <img src="./images/alan-whatsapp.JPG" />
+            <p>WhatsApp</p>
+          </div>
+        </div>
     <div id="form-details">
       <form action="https://formsubmit.co/aaec62bf52e8a7832c54fa926ce25953" method="POST">    
-        <span>Wechat ID: alan656865</span>
+        
         <h1>LEAVE A MESSAGE</h1>
         <input type="text" name="Name" placeholder="Your Name" required />
         <input type="text" name="Email" placeholder="E-mail" required />

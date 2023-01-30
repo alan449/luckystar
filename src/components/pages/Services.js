@@ -13,19 +13,19 @@ export default function Services() {
     </h1>
     
     <div className='cards'>
-    <h1>E-Commerce, internation logistics solution</h1>
+    <h1>E-Commerce, international logistics solution</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
+              src='./images/img-9.jpg'
               text='Ongoing IT support'
               label='IT Support'
               path='/services'
             />
             <CardItem
-              src='images/img-8.jpg'
-              text='We build long term relationships with our clients'
+              src='./images/img-8.jpg'
+              text='Building long term relationships with our clients'
               label='Customer Services'
               path='/services'
             />
