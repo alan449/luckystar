@@ -8,7 +8,7 @@ import Cards from '../Cards';
 export default function Products() {
   return (
     <>
-    <h1 className='products'>CONTACT US</h1>
+    <h1 className='contact-us'>CONTACT US</h1>
     <div className='contact'>
           <div className='con-detail'>
             <img src="./images/alan-wechat.JPG" />

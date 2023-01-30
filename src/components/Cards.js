@@ -11,13 +11,13 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='./images/img-9.jpg'
-              text='Explore a variety of alternatives and find the best solution to save money'
+              text='Explore a variety of alternatives and find the best solution to save your money'
               label='Cost-Effective'
               path='/services'
             />
             <CardItem
               src='./images/img-2.jpg'
-              text='We are commited to our promise of high quality service to you'
+              text='Committed to our promise of serving you to the highest standards'
               label='Commitment'
               path='/services'
             />
